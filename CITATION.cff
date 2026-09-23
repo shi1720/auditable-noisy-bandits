@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite the research manuscript when using this work."
+title: "When Rankings Are Not Enough: Cost-Sensitive Bandits with Auditable Noisy Feedback"
+type: article
+authors:
+  - family-names: Gupta
+    given-names: Shivam
+date-released: 2026-09-23
+version: 1.0.0
+url: "https://github.com/shi1720/auditable-noisy-bandits"
+repository-code: "https://github.com/shi1720/auditable-noisy-bandits"
+abstract: "A learning-theory study of shared evaluator calibration, action prices, and costly trusted audits in stochastic bandits."
+keywords:
+  - stochastic bandits
+  - costly observations
+  - calibration
+  - learning theory

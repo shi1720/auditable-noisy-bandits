@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "auditband"
+version = "0.1.0"
+description = "Reproducible experiments for cost-sensitive bandits with auditable noisy feedback"
+requires-python = ">=3.9"
+dependencies = ["numpy", "scipy", "matplotlib", "numba"]
+[tool.setuptools.packages.find]
+where = ["src"]
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

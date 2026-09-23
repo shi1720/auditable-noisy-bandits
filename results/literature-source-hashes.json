@@ -1,0 +1,11 @@
+{
+  "note": "SHA-256 digests of locally inspected primary-source PDFs; third-party PDFs are not redistributed.",
+  "files": {
+    "gajane18.pdf": "2035e6921b4635eb7d8a63056bb3dcf5eda11edbdaefcbf246173adfd10d569c",
+    "ghasemi26.pdf": "c6d30b056e46b188913d823060dff93f427b2d973892e1f8a185638a5e76e3ee",
+    "resler19.pdf": "c53d618b68473dee39f9b53ac7f528d8b10e0c6768a66d8bf25ac7149085499e",
+    "reyzin26.pdf": "76de19483063424ac75efc1bbfdc9cfdaae01deaf9c390bafe565b0d0077f7ff",
+    "schur26.pdf": "3d33da792d99f163868af8689acd840b7632c137a60ced3dc1d53f43108f49b5",
+    "tucker23.pdf": "8051ecd05e792c47ace5f1597b7b5fe868ac00c15e75d43ece37f6d3aeab6dcf"
+  }
+}

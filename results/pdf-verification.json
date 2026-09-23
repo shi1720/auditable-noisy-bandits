@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "files": {
+    "anonymous": {
+      "pages": 16,
+      "sha256": "e529ce3e6ba13b01639569dd92be597272f86e914e6fd21608d55135c1ed053b",
+      "bytes": 254461
+    },
+    "author": {
+      "pages": 16,
+      "sha256": "28c63b57f67c1c1e449c5ed497ff92ddf51dec62d165879079d68e40e3dc7dad",
+      "bytes": 255097
+    }
+  },
+  "visual_review": "All pages of both variants rendered and inspected; equations, captions, table, pseudocode, reference code, margins, and headers checked.",
+  "main_proofs_complete_by_page": 9,
+  "references_start_on_page": 12,
+  "unresolved_references": false,
+  "overfull_boxes": false
+}

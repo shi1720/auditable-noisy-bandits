@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "scope": "Clean source/data directory, same locked Python environment; not an independent implementation.",
+  "seconds": 20.071707248687744,
+  "files": {
+    "results/runs.csv": {
+      "sha256": "1c18d90b41f935b1afae83a2113a2dd2694025ccdf03e728f15123c014025f24",
+      "reproduced_sha256": "1c18d90b41f935b1afae83a2113a2dd2694025ccdf03e728f15123c014025f24"
+    },
+    "results/summary.csv": {
+      "sha256": "03aa07c3d5e132f25f3c93dd7c14b8ed38e8e51c0a7ece284672788b44e58a13",
+      "reproduced_sha256": "03aa07c3d5e132f25f3c93dd7c14b8ed38e8e51c0a7ece284672788b44e58a13"
+    },
+    "paper/results-table.tex": {
+      "sha256": "47f0c88b3f665c3cf2f17fd57430fbf1a51e639837f4bc6d8052b576cb0d78a6",
+      "reproduced_sha256": "47f0c88b3f665c3cf2f17fd57430fbf1a51e639837f4bc6d8052b576cb0d78a6"
+    }
+  }
+}

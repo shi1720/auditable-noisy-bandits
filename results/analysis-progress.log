@@ -1,0 +1,22 @@
+Policy-environment-seed runs: 69632
+Configurations: 46
+arms 2 0.0 SC-UCB 224.33 2.53
+arms 2 0.0 Audit-only ETC 141.78 8.17
+arms 4 0.0 SC-UCB 430.67 2.99
+arms 4 0.0 Audit-only ETC 238.47 12.93
+arms 8 0.0 SC-UCB 491.8 1.95
+arms 8 0.0 Audit-only ETC 336.82 14.72
+arms 16 0.0 SC-UCB 520.98 1.28
+arms 16 0.0 Audit-only ETC 398.01 15.76
+arms 32 0.0 SC-UCB 539.48 0.83
+arms 32 0.0 Audit-only ETC 486.33 16.2
+misspecification 2 0.0 SC-UCB 224.33 2.53
+misspecification 2 0.0 Audit-only ETC 141.78 8.17
+misspecification 2 0.03 SC-UCB 271.44 2.97
+misspecification 2 0.03 Audit-only ETC 141.78 8.17
+misspecification 2 0.06 SC-UCB 319.62 3.08
+misspecification 2 0.06 Audit-only ETC 141.78 8.17
+misspecification 2 0.12 SC-UCB 403.6 2.07
+misspecification 2 0.12 Audit-only ETC 141.78 8.17
+misspecification 2 0.2 SC-UCB 458.1 0.83
+misspecification 2 0.2 Audit-only ETC 141.78 8.17

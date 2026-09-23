@@ -1,0 +1,11 @@
+{
+  "policy_runs": 69632,
+  "rows": 208896,
+  "summary_groups": 272,
+  "seeds_per_group": 256,
+  "joint_KL_grid_checks": 12500,
+  "largest_observed_KL_over_h_squared": 6.031377139327394,
+  "exact_KL_bound_constant": "71936/4875",
+  "checks": "PASS",
+  "scope": "Internal verification; grid checks are not proofs."
+}
