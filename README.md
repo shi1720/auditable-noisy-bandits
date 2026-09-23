@@ -1,6 +1,7 @@
 # When Rankings Are Not Enough
 
-**Cost-Sensitive Bandits with Auditable Noisy Feedback**  
+**Cost-Sensitive Bandits with Auditable Noisy Feedback**
+
 Shivam Gupta · Research manuscript · September 2026
 
 A reliable quality ranking need not identify the best tool after execution prices are deducted. This repository studies that distinction in a stochastic Bernoulli bandit with a shared, unknown symmetric feedback channel and optional trusted audits.

@@ -1,0 +1,6 @@
+# Keep experimental CSV bytes stable across platform checkouts.
+*.csv -text whitespace=cr-at-eol
+# Preserve the official template files verbatim.
+vendor/** -whitespace
+paper/jmlr.cls -whitespace
+paper/jmlrutils.sty -whitespace
